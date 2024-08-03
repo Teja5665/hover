@@ -1,0 +1,71 @@
+.div1{
+    background-color:#eadfb436;
+    width: 699px;
+    height: 899px;
+    float: left;
+    margin-top: 100px;
+    padding-left: 2%;
+}
+.div2{
+    float: left;
+    margin-top: 50px;
+    padding-left: 3%;
+}
+h1{
+    background-color: #276f93;
+    width: 40px;
+    height: 589px;
+    float: left;
+    padding-left: 2%;
+}
+h2{
+    background-color: rgb(107, 145, 189);
+    width: 59.9px;
+    height: 14px;
+    float: left;
+    padding-left: 5%;border-radius: 20px;
+     padding:3% ;
+}
+#fat1{
+    margin-top: 20px;margin-left: 100px;
+    background-color:rgba(38, 83, 135, 0.5);
+     width: 399px;height: 399px;
+    text-align: center;
+    display: none;
+    
+}
+#fat:hover ~ #fat1{
+    display:block;
+    }
+#mot1{
+        margin-top: -135.5px;margin-left: 100px;
+        background-color:rgba(38, 83, 135, 0.5);
+         width: 399px;height: 399px;
+        text-align: center;
+        display:none ;
+        
+    }
+    #mot:hover ~ #mot1{
+        display:block;
+        }
+#me1{
+    margin-top: -299.5px;margin-left: 100px;
+    background-color:rgba(38, 83, 135, 0.5);
+    width: 399px;height: 399px;
+    text-align: center;
+    display: none;
+    }
+    #me:hover ~ #me1{
+        display:block;
+    }
+#bro1{
+    vertical-align: middle;
+margin-top: -309.50px;margin-left: 100px;margin-bottom: auto;
+background-color:rgba(38, 83, 135, 0.5);
+width: 399px;height: 399px;
+text-align: center;
+display: none;
+}
+    #bro:hover ~ #bro1{
+        display:block;
+}
